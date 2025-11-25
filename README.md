@@ -270,3 +270,8 @@ Slides outline:
 * Deploy model as a cloud API
 
 
+# NOTE: Large dataset and model artifacts are excluded from this GitHub repository.
+> To reproduce results:
+> 1. Download `consumer_complaints.csv` from Kaggle: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
+> 2. Place the file at `data/raw/consumer_complaints.csv`
+> 3. Run preprocessing, feature creation and training as described in the README.
