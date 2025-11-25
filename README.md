@@ -247,7 +247,7 @@ uv run python src/tune_threshold_class0.py --model outputs/models/lr_balanced.jo
 
 # 📄 **Full Report**
 
-The complete academic-style project report is available at:
+The complete project report is available at:
 
 📁 Report: https://docs.google.com/document/d/1OeivPbC8R_ApO0tbZDldAekHLIOr06lsByvWq9lm0Oo/edit?usp=sharing
 
