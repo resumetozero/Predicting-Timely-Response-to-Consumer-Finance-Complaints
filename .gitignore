@@ -1,0 +1,10 @@
+# Data & outputs
+/data/
+/outputs/
+/*.joblib
+*.npz
+*.npy
+*.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
