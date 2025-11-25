@@ -10,10 +10,10 @@
 
 **Members:**
 
-**22CS3065 - Utsav Shingala**
-**22CS3020 - Ayush Mittal**
-**22CS3047 - Rishabh Kumar**
-**22CS3001 - Aakarsh Verma**
+* **22CS3065 - Utsav Shingala**
+* **22CS3020 - Ayush Mittal**
+* **22CS3047 - Rishabh Kumar**
+* **22CS3001 - Aakarsh Verma**
 ---
 
 # 📌 **Project Overview**
