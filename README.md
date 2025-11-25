@@ -169,7 +169,7 @@ Using tuned threshold **0.8198** on `score0 = 1 - prob(class=1)`:
 | **Precision**          | 0.136      |
 | **Recall**             | 0.648      |
 | **F1-score**           | 0.225      |
-| **Accuracy (overall)** | 0.87       |
+| **Accuracy (overall)** | 0.97       |
 
 **Confusion Matrix (Test):**
 
