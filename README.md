@@ -1,20 +1,19 @@
 # 📘 **Predicting Timely Response to Consumer Finance Complaints**
 
-### *Final Year CSE Project – Machine Learning + NLP*
+### *Final Year CSE Project – Machine Learning + NLP + Data Analytics *
 
 ---
 
 ## 🧑‍🎓 **Team Details**
 
-**Group No:** 07
 **Branch:** Computer Science & Engineering (CSE)
 
 **Members:**
 
-* **20CS1001 – Priya Sharma**
-* **20CS1002 – Rohit Verma**
-* **20CS1003 – Ananya Singh**
-
+**22CS3065 - Utsav Shingala**
+**22CS3020 - Ayush Mittal**
+**22CS3047 - Rishabh Kumar**
+**22CS3001 - Aakarsh Verma**
 ---
 
 # 📌 **Project Overview**
